@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Healthy Meal Plan",
+    "description": "How we dream about our future",
+    "img": "https://i.postimg.cc/5tdstzhF/lunch1.png",
+    "price": 23.99,
+    "category": "lunch"
+  },
+  {
+    "id": 2,
+    "name": "Fired Chicken Bento",
+    "description": "How we dream about our future",
+    "img": "https://i.postimg.cc/wv9FXpTq/lunch2.png",
+    "price": 9.99,
+    "category": "lunch"
+  },
+  {
+    "id": 3,
+    "name": "Tarragon-Rubbed-Salmon",
+    "description": "How we dream about our future",
+    "img": "https://i.postimg.cc/xCg5g4cK/lunch3.png",
+    "price": 6.99,
+    "category": "lunch"
+  },
+  {
+    "id": 4,
+    "name": "Indian Lunch",
+    "description": "How we dream about our future",
+    "img": "https://i.postimg.cc/VLJgB41C/lunch4.png",
+    "price": 8.99,
+    "category": "lunch"
+  },
+  {
+    "id": 5,
+    "name": "Beef Steak",
+    "description": "How we dream about our future",
+    "img": "https://i.postimg.cc/xjxgzBrQ/lunch5.png",
+    "price": 15.99,
+    "category": "lunch"
+  },
+  {
+    "id": 6,
+    "name": "Honey-Soy-Glazed Salmon with Peppers",
+    "description": "How we dream about our future",
+    "img": "https://i.postimg.cc/xjxgzBrQ/lunch5.png",
+    "price": 7.99,
+    "category": "lunch"
+  },
+  {
+    "id": 7,
+    "name": "Bagel and cream cheese",
+    "description": "How we dream about our future",
+    "img": "https://i.postimg.cc/bYmSg2Rc/breakfast1.png",
+    "price": 6.99,
+    "category": "breakfast"
+  },
+  {
+    "id": 8,
+    "name": "Breakfast sandwich",
+    "description": "How we dream about our future",
+    "img": "https://i.postimg.cc/BnK8J7f4/breakfast2.png",
+    "price": 9.99,
+    "category": "breakfast"
+  },
+  {
+    "id": 9,
+    "name": "Baked Chiken",
+    "description": "How we dream about our future",
+    "img": "https://i.postimg.cc/SN52FF5g/breakfast3.png",
+    "price": 10.99,
+    "category": "breakfast"
+  },
+  {
+    "id": 10,
+    "name": "Eggs Benedict",
+    "description": "How we dream about our future",
+    "img": "https://i.postimg.cc/xdVX8G9H/breakfast4.png",
+    "price": 8.99,
+    "category": "breakfast"
+  },
+  {
+    "id": 11,
+    "name": "Toast Croissant Fired egg",
+    "description": "How we dream about our future",
+    "img": "https://i.postimg.cc/nzHMYHjh/breakfast5.png",
+    "price": 19.99,
+    "category": "breakfast"
+  },
+  {
+    "id": 12,
+    "name": "Full Breakfast Fired Egg Toast Brunch",
+    "description": "How we dream about our future",
+    "img": "https://i.postimg.cc/YSNhW4SP/breakfast6.png",
+    "price": 3.99,
+    "category": "breakfast"
+  },
+  {
+    "id": 13,
+    "name": "Salmon with Grapefruit and Lentil Salad",
+    "description": "How we dream about our future",
+    "img": "https://i.postimg.cc/LsjNgVLM/dinner1.png",
+    "price": 9.99,
+    "category": "dinner"
+  },
+  {
+    "id": 14,
+    "name": "Lemony Salmon Piccata",
+    "description": "How we dream about our future",
+    "img": "https://i.postimg.cc/kGgcZ3Zn/dinner2.png",
+    "price": 10.99,
+    "category": "dinner"
+  },
+  {
+    "id": 15,
+    "name": "Pork Tenderloin With Qunioa Pilaf",
+    "description": "How we dream about our future",
+    "img": "https://i.postimg.cc/DZg6Byxj/dinner3.png",
+    "price": 12.99,
+    "category": "dinner"
+  },
+  {
+    "id": 16,
+    "name": "French fries with chesse",
+    "description": "How we dream about our future",
+    "img": "https://i.postimg.cc/pVskjrhy/dinner4.png",
+    "price": 8.99,
+    "category": "dinner"
+  },
+  {
+    "id": 17,
+    "name": "Garlic Butter Baked Salmon",
+    "description": "How we dream about our future",
+    "img": "https://i.postimg.cc/Hnv21vDb/dinner5.png",
+    "price": 6.99,
+    "category": "dinner"
+  },
+  {
+    "id": 18,
+    "name": "Baked Chiken",
+    "description": "How we dream about our future",
+    "img": "https://i.postimg.cc/hjgML71Q/dinner6.png",
+    "price": 9.99,
+    "category": "dinner"
+  }
+]
